@@ -1,0 +1,660 @@
+PMID- 38116501
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231221
+IS  - 2666-6065 (Electronic)
+IS  - 2666-6065 (Linking)
+VI  - 40
+DP  - 2023 Nov
+TI  - Climate change and population health in Singapore: a systematic review.
+PG  - 100947
+LID - 10.1016/j.lanwpc.2023.100947 [doi]
+LID - 100947
+AB  - Gaseous emissions have contributed to global warming, an increase in the 
+      frequency of extreme weather events and poorer air quality. The associated health 
+      impacts have been well reported in temperate regions. In Singapore, key climate 
+      change adaptation measures and activities include coastal and flood protection, 
+      and mitigating heat impacts. We systematically reviewed studies examining climate 
+      variability and air quality with population health in Singapore, a tropical 
+      city-state in South-East Asia (SEA), with the aim to identify evidence gaps for 
+      policymakers. We included 14 studies with respiratory illnesses, cardiovascular 
+      outcomes, foodborne disease and dengue. Absolute humidity (3 studies) and 
+      rainfall (2 studies) were positively associated with adverse health. Extreme heat 
+      (2 studies) was inversely associated with adverse health. The effects of mean 
+      ambient temperature and relative humidity on adverse health were inconsistent. 
+      Nitrogen dioxide and ozone were positively associated with adverse health. 
+      Climate variability and air quality may have disease-specific, differing 
+      directions of effect in Singapore. Additional high quality studies are required 
+      to strengthen the evidence for policymaking. Research on effective climate action 
+      advocacy and adaptation measures for community activities should be strengthened. 
+      FUNDING: There was no funding source for this study.
+CI  - © 2023 The Author(s).
+FAU - Aik, Joel
+AU  - Aik J
+AD  - Pre-hospital and Emergency Research Centre, Programme in Health Services and 
+      Systems Research, Duke-NUS Medical School, 8 College Road, 169857, Singapore.
+AD  - National Environment Agency, 40 Scotts Road #13-00, 228231, Singapore.
+FAU - Ang, Lina
+AU  - Ang L
+AD  - Saw Swee Hock School of Public Health, National University of Singapore and 
+      National University Health System, Tahir Foundation Building, 12 Science Drive 2 
+      #10-01, 117549, Singapore.
+FAU - Gunther, Samuel H
+AU  - Gunther SH
+AD  - Human Potential Translational Research Programme, Yong Loo Lin School of 
+      Medicine, National University of Singapore, 10 Medical Drive, Block MD 11, 
+      #03-10, 117597, Singapore.
+FAU - Tang, Charissa
+AU  - Tang C
+AD  - National Climate Change Secretariat (Singapore), Prime Minister's Office, 100 
+      High Street, The Treasury, 179434, Singapore.
+FAU - Lee, Jason K W
+AU  - Lee JKW
+AD  - Human Potential Translational Research Programme, Yong Loo Lin School of 
+      Medicine, National University of Singapore, 10 Medical Drive, Block MD 11, 
+      #03-10, 117597, Singapore.
+AD  - Heat Resilience and Performance Centre, National University of Singapore, 27 
+      Medical Drive #03-01, 117510, Singapore.
+FAU - Seow, Wei Jie
+AU  - Seow WJ
+AD  - Saw Swee Hock School of Public Health, National University of Singapore and 
+      National University Health System, Tahir Foundation Building, 12 Science Drive 2 
+      #10-01, 117549, Singapore.
+AD  - Department of Medicine, Yong Loo Lin School of Medicine, National University of 
+      Singapore and National University Health System, 10 Medical Drive, 117597, 
+      Singapore.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231115
+PL  - England
+TA  - Lancet Reg Health West Pac
+JT  - The Lancet regional health. Western Pacific
+JID - 101774968
+PMC - PMC10730317
+OTO - NOTNLM
+OT  - Action
+OT  - Air quality
+OT  - Climate
+OT  - Population health
+OT  - Singapore
+OT  - Systematic review
+COIS- We declare no competing interests.
+EDAT- 2023/12/20 06:43
+MHDA- 2023/12/20 06:44
+PMCR- 2023/11/15
+CRDT- 2023/12/20 04:03
+PHST- 2023/07/30 00:00 [received]
+PHST- 2023/09/24 00:00 [revised]
+PHST- 2023/10/12 00:00 [accepted]
+PHST- 2023/12/20 06:44 [medline]
+PHST- 2023/12/20 06:43 [pubmed]
+PHST- 2023/12/20 04:03 [entrez]
+PHST- 2023/11/15 00:00 [pmc-release]
+AID - S2666-6065(23)00265-1 [pii]
+AID - 100947 [pii]
+AID - 10.1016/j.lanwpc.2023.100947 [doi]
+PST - epublish
+SO  - Lancet Reg Health West Pac. 2023 Nov 15;40:100947. doi: 
+      10.1016/j.lanwpc.2023.100947. eCollection 2023 Nov.
+
+PMID- 34402002
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211008
+LR  - 20240314
+IS  - 1614-7499 (Electronic)
+IS  - 0944-1344 (Print)
+IS  - 0944-1344 (Linking)
+VI  - 28
+IP  - 39
+DP  - 2021 Oct
+TI  - Impacts of and adaptation to climate change on the oil palm in Malaysia: a 
+      systematic review.
+PG  - 54339-54361
+LID - 10.1007/s11356-021-15890-3 [doi]
+AB  - The interaction and the interplay of climate change with oil palm production in 
+      the Southeast Asia region are of serious concern. This particularly applies in 
+      Malaysia due to its rank as the second largest palm oil producer in the world. 
+      The anthropogenic activities and the agroecological practices in oil palm 
+      plantation, including excessive use of fertilisers, bush fire due to land 
+      clearing, and cultivation on peatland, have exacerbated the effects of climate 
+      change featuring extreme events, drought, flooding, heatwave, as well as 
+      infestation of pest and diseases. These adverse impacts on oil palm production 
+      highlight the significance of deploying effective adaptation strategies. The 
+      study aims to examine the impact of climate change on oil palm production and 
+      identify the farmers' adaptation strategies to the impacts of climate change in 
+      Malaysia. This study was conducted a comprehensive review of the articles 
+      published from 2000 to 2021 in the contexts of climate change and oil palm 
+      production in Malaysia. The review shows that climate change has a range of 
+      impacts on the oil palm production in Malaysia. As a result, several adaptation 
+      options were identified, such as breeding of hybrid varieties that are tolerant 
+      and resistant to heat; sustainable management of soil; pit and tranches to 
+      enhance water management in plantation areas; minimal use of fertilisers, 
+      herbicides, and pesticides; zero burning; and minimum tillage. The reviewed 
+      studies recommended the following to mitigate the adverse impacts of climate 
+      change: sustainable national policy on climate change, conservation of the 
+      existing carbon stock, effective management of tropical rainforest biodiversity, 
+      afforestation for carbon sequestration, and reduction in greenhouse gas (GHG) 
+      emission.
+CI  - © 2021. The Author(s).
+FAU - Abubakar, Ahmed
+AU  - Abubakar A
+AD  - Faculty of Forestry and Environment, Universiti Putra Malaysia, UPM, 43400, 
+      Serdang, Selangor, Malaysia. abubakar8550483@gmail.com.
+FAU - Ishak, Mohd Yusoff
+AU  - Ishak MY
+AD  - Faculty of Forestry and Environment, Universiti Putra Malaysia, UPM, 43400, 
+      Serdang, Selangor, Malaysia.
+FAU - Makmom, Abdullah Ahmad
+AU  - Makmom AA
+AD  - Faculty of Forestry and Environment, Universiti Putra Malaysia, UPM, 43400, 
+      Serdang, Selangor, Malaysia.
+LA  - eng
+GR  - TETF/UNIV/JIGAWA STAT/TSAS/2019/tetfund Nigeria/
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20210816
+PL  - Germany
+TA  - Environ Sci Pollut Res Int
+JT  - Environmental science and pollution research international
+JID - 9441769
+SB  - IM
+EIN - Environ Sci Pollut Res Int. 2022 May;29(21):32303. doi: 
+      10.1007/s11356-022-19547-7. PMID: 35389171
+MH  - *Climate Change
+MH  - Malaysia
+PMC - PMC8494663
+OTO - NOTNLM
+OT  - Extreme event
+OT  - Malaysia
+OT  - Oil palm
+OT  - Rainfall
+OT  - Temperature
+OT  - Variability
+COIS- The authors declare no competing interests.
+EDAT- 2021/08/18 06:00
+MHDA- 2021/10/09 06:00
+PMCR- 2021/08/16
+CRDT- 2021/08/17 07:41
+PHST- 2020/09/18 00:00 [received]
+PHST- 2021/08/05 00:00 [accepted]
+PHST- 2021/08/18 06:00 [pubmed]
+PHST- 2021/10/09 06:00 [medline]
+PHST- 2021/08/17 07:41 [entrez]
+PHST- 2021/08/16 00:00 [pmc-release]
+AID - 10.1007/s11356-021-15890-3 [pii]
+AID - 15890 [pii]
+AID - 10.1007/s11356-021-15890-3 [doi]
+PST - ppublish
+SO  - Environ Sci Pollut Res Int. 2021 Oct;28(39):54339-54361. doi: 
+      10.1007/s11356-021-15890-3. Epub 2021 Aug 16.
+
+PMID- 38440259
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240306
+IS  - 2666-6758 (Electronic)
+IS  - 2666-6758 (Linking)
+VI  - 5
+IP  - 2
+DP  - 2024 Mar 4
+TI  - Urban heat mitigation by green and blue infrastructure: Drivers, effectiveness, 
+      and future needs.
+PG  - 100588
+LID - 10.1016/j.xinn.2024.100588 [doi]
+LID - 100588
+AB  - The combination of urbanization and global warming leads to urban overheating and 
+      compounds the frequency and intensity of extreme heat events due to climate 
+      change. Yet, the risk of urban overheating can be mitigated by urban 
+      green-blue-grey infrastructure (GBGI), such as parks, wetlands, and engineered 
+      greening, which have the potential to effectively reduce summer air temperatures. 
+      Despite many reviews, the evidence bases on quantified GBGI cooling benefits 
+      remains partial and the practical recommendations for implementation are unclear. 
+      This systematic literature review synthesizes the evidence base for heat 
+      mitigation and related co-benefits, identifies knowledge gaps, and proposes 
+      recommendations for their implementation to maximize their benefits. After 
+      screening 27,486 papers, 202 were reviewed, based on 51 GBGI types categorized 
+      under 10 main divisions. Certain GBGI (green walls, parks, street trees) have 
+      been well researched for their urban cooling capabilities. However, several other 
+      GBGI have received negligible (zoological garden, golf course, estuary) or 
+      minimal (private garden, allotment) attention. The most efficient air cooling was 
+      observed in botanical gardens (5.0 ± 3.5°C), wetlands (4.9 ± 3.2°C), green walls 
+      (4.1 ± 4.2°C), street trees (3.8 ± 3.1°C), and vegetated balconies (3.8 ± 2.7°C). 
+      Under changing climate conditions (2070-2100) with consideration of RCP8.5, there 
+      is a shift in climate subtypes, either within the same climate zone (e.g., Dfa to 
+      Dfb and Cfb to Cfa) or across other climate zones (e.g., Dfb [continental 
+      warm-summer humid] to BSk [dry, cold semi-arid] and Cwa [temperate] to Am 
+      [tropical]). These shifts may result in lower efficiency for the current GBGI in 
+      the future. Given the importance of multiple services, it is crucial to balance 
+      their functionality, cooling performance, and other related co-benefits when 
+      planning for the future GBGI. This global GBGI heat mitigation inventory can 
+      assist policymakers and urban planners in prioritizing effective interventions to 
+      reduce the risk of urban overheating, filling research gaps, and promoting 
+      community resilience.
+CI  - © 2024 The Author(s).
+FAU - Kumar, Prashant
+AU  - Kumar P
+AD  - Global Centre for Clean Air Research (GCARE), School of Sustainability, Civil and 
+      Environmental Engineering, Faculty of Engineering and Physical Sciences, 
+      University of Surrey, Guildford GU2 7XH, UK.
+AD  - Institute for Sustainability, University of Surrey, Guildford GU2 7XH, Surrey, 
+      UK.
+AD  - School of Architecture, Southeast University, 2 Sipailou, Nanjing 210096, China.
+FAU - Debele, Sisay E
+AU  - Debele SE
+AD  - Global Centre for Clean Air Research (GCARE), School of Sustainability, Civil and 
+      Environmental Engineering, Faculty of Engineering and Physical Sciences, 
+      University of Surrey, Guildford GU2 7XH, UK.
+FAU - Khalili, Soheila
+AU  - Khalili S
+AD  - Global Centre for Clean Air Research (GCARE), School of Sustainability, Civil and 
+      Environmental Engineering, Faculty of Engineering and Physical Sciences, 
+      University of Surrey, Guildford GU2 7XH, UK.
+FAU - Halios, Christos H
+AU  - Halios CH
+AD  - School of Built Environment, University of Reading, Whiteknights, Reading RG6 
+      6BU, UK.
+FAU - Sahani, Jeetendra
+AU  - Sahani J
+AD  - Global Centre for Clean Air Research (GCARE), School of Sustainability, Civil and 
+      Environmental Engineering, Faculty of Engineering and Physical Sciences, 
+      University of Surrey, Guildford GU2 7XH, UK.
+FAU - Aghamohammadi, Nasrin
+AU  - Aghamohammadi N
+AD  - School Design and the Built Environment, Curtin University Sustainability Policy 
+      Institute, Kent St, Bentley 6102, Western Australia.
+AD  - Harry Butler Institute, Murdoch University, Murdoch 6150, Western Australia.
+FAU - Andrade, Maria de Fatima
+AU  - Andrade MF
+AD  - Atmospheric Sciences Department, Institute of Astronomy, Geophysics and 
+      Atmospheric Sciences, University of Sao Paulo, Sao Paulo 05508-090, Brazil.
+FAU - Athanassiadou, Maria
+AU  - Athanassiadou M
+AD  - Met Office, FitzRoy Road, Exeter EX1 3PB, UK.
+FAU - Bhui, Kamaldeep
+AU  - Bhui K
+AD  - Department of Psychiatry and Nuffield Department of Primary Care Health Sciences, 
+      Wadham College, University of Oxford, Oxford, UK.
+FAU - Calvillo, Nerea
+AU  - Calvillo N
+AD  - Centre for Interdisciplinary Methodologies, University of Warwick, Warwick, UK.
+FAU - Cao, Shi-Jie
+AU  - Cao SJ
+AD  - Global Centre for Clean Air Research (GCARE), School of Sustainability, Civil and 
+      Environmental Engineering, Faculty of Engineering and Physical Sciences, 
+      University of Surrey, Guildford GU2 7XH, UK.
+AD  - School of Architecture, Southeast University, 2 Sipailou, Nanjing 210096, China.
+FAU - Coulon, Frederic
+AU  - Coulon F
+AD  - Cranfield University, School of Water, Environment and Energy, Cranfield MK43 
+      0AL, UK.
+FAU - Edmondson, Jill L
+AU  - Edmondson JL
+AD  - Plants, Photosynthesis, Soil Cluster, School of Biosciences, University of 
+      Sheffield, Sheffield S10 2TN, UK.
+FAU - Fletcher, David
+AU  - Fletcher D
+AD  - UK Centre for Ecology & Hydrology, Environment Centre Wales, Deiniol Road, Bangor 
+      LL57 2UW, UK.
+FAU - Dias de Freitas, Edmilson
+AU  - Dias de Freitas E
+AD  - Atmospheric Sciences Department, Institute of Astronomy, Geophysics and 
+      Atmospheric Sciences, University of Sao Paulo, Sao Paulo 05508-090, Brazil.
+FAU - Guo, Hai
+AU  - Guo H
+AD  - Air Quality Studies, Department of Civil and Environmental Engineering, The Hong 
+      Kong Polytechnic University, Hong Kong, China.
+FAU - Hort, Matthew C
+AU  - Hort MC
+AD  - Met Office, FitzRoy Road, Exeter EX1 3PB, UK.
+FAU - Katti, Madhusudan
+AU  - Katti M
+AD  - Department of Forestry and Environmental Resources, Faculty Excellence Program 
+      for Leadership in Public Science, North Carolina State University, Chancellor, 
+      Raleigh, NC 27695, USA.
+FAU - Kjeldsen, Thomas Rodding
+AU  - Kjeldsen TR
+AD  - Departments of Architecture & Civil Engineering, and Chemical Engineering, 
+      University of Bath, Bath BA2 7AY, UK.
+FAU - Lehmann, Steffen
+AU  - Lehmann S
+AD  - School of Architecture, University of Nevada, Las Vegas, NV 89154, USA.
+FAU - Locosselli, Giuliano Maselli
+AU  - Locosselli GM
+AD  - Department of Tropical Ecosystems Functioning, Center of Nuclear Energy in 
+      Agriculture, University of São Paulo, Piracicaba 13416-000, Sao Paulo, Brazil.
+FAU - Malham, Shelagh K
+AU  - Malham SK
+AD  - School of Ocean Sciences, Bangor University, Menai Bridge, Anglesey LL59 5 AB, 
+      UK.
+FAU - Morawska, Lidia
+AU  - Morawska L
+AD  - Global Centre for Clean Air Research (GCARE), School of Sustainability, Civil and 
+      Environmental Engineering, Faculty of Engineering and Physical Sciences, 
+      University of Surrey, Guildford GU2 7XH, UK.
+AD  - International Laboratory for Air Quality and Health, Science and Engineering 
+      Faculty, Queensland University of Science and Technology, QLD, Australia.
+FAU - Parajuli, Rajan
+AU  - Parajuli R
+AD  - Department of Forestry and Environmental Resources, North Carolina State 
+      University, Raleigh, NC 27695, USA.
+FAU - Rogers, Christopher D F
+AU  - Rogers CDF
+AD  - Department of Civil Engineering, School of Engineering, University of Birmingham, 
+      Edgbaston, Birmingham B15 2TT, UK.
+FAU - Yao, Runming
+AU  - Yao R
+AD  - School of Built Environment, University of Reading, Whiteknights, Reading RG6 
+      6BU, UK.
+AD  - Joint International Research Laboratory of Green Buildings and Built 
+      Environments, Ministry of Education, School of the Civil Engineering, Chongqing 
+      University, Chongqing, China.
+FAU - Wang, Fang
+AU  - Wang F
+AD  - State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil 
+      Science, Chinese Academy of Sciences, Nanjing 210008, China.
+AD  - University of Chinese Academy of Sciences, Beijing 100049, China.
+FAU - Wenk, Jannis
+AU  - Wenk J
+AD  - Departments of Architecture & Civil Engineering, and Chemical Engineering, 
+      University of Bath, Bath BA2 7AY, UK.
+FAU - Jones, Laurence
+AU  - Jones L
+AD  - UK Centre for Ecology & Hydrology, Environment Centre Wales, Deiniol Road, Bangor 
+      LL57 2UW, UK.
+AD  - Liverpool Hope University, Department of Geography and Environmental Science, 
+      Hope Park, Liverpool L16 9JD, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240207
+PL  - United States
+TA  - Innovation (Camb)
+JT  - Innovation (Cambridge (Mass.))
+JID - 101771342
+PMC - PMC10909648
+OTO - NOTNLM
+OT  - climate change
+OT  - heat mitigation
+OT  - heat stress
+OT  - nature-based solutions
+OT  - sustainable development goals
+OT  - urban cooling
+COIS- The authors declare no competing interests.
+EDAT- 2024/03/05 06:45
+MHDA- 2024/03/05 06:46
+PMCR- 2024/02/07
+CRDT- 2024/03/05 03:53
+PHST- 2023/08/07 00:00 [received]
+PHST- 2024/02/05 00:00 [accepted]
+PHST- 2024/03/05 06:46 [medline]
+PHST- 2024/03/05 06:45 [pubmed]
+PHST- 2024/03/05 03:53 [entrez]
+PHST- 2024/02/07 00:00 [pmc-release]
+AID - S2666-6758(24)00026-2 [pii]
+AID - 100588 [pii]
+AID - 10.1016/j.xinn.2024.100588 [doi]
+PST - epublish
+SO  - Innovation (Camb). 2024 Feb 7;5(2):100588. doi: 10.1016/j.xinn.2024.100588. 
+      eCollection 2024 Mar 4.
+
+PMID- 38354890
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240519
+LR  - 20240620
+IS  - 1096-0953 (Electronic)
+IS  - 0013-9351 (Linking)
+VI  - 250
+DP  - 2024 Jun 1
+TI  - Impact of extreme weather events on mental health in South and Southeast Asia: A 
+      two decades of systematic review of observational studies.
+PG  - 118436
+LID - S0013-9351(24)00340-2 [pii]
+LID - 10.1016/j.envres.2024.118436 [doi]
+AB  - Extreme weather events in South and Southeast Asia exert profound psychosocial 
+      impacts, amplifying the prevalence of mental illness. Despite their substantial 
+      consequences, there is a dearth of research and representation in the current 
+      literature. We conducted a systematic review of observational studies published 
+      between January 1, 2000, and January 20, 2024, to examine the impact of extreme 
+      weather events on the mental health of the South and Southeast Asian population. 
+      Quality assessment of the included studies was conducted using the 
+      Newcastle-Ottawa Scale (NOS) quality appraisal checklist. The search retrieved 70 
+      studies that met the inclusion criteria and were included in our review. Most 
+      were from India (n = 22), and most used a cross-sectional study design (n = 55). 
+      Poor mental health outcomes were associated with six types of extreme weather 
+      events: floods, storm surges, typhoons, cyclones, extreme heat, and riverbank 
+      erosion. Most studies (n = 41) reported short-term outcome measurements. Findings 
+      included outcomes with predictable symptomatology, including post-traumatic 
+      stress disorder, depression, anxiety, general psychological distress, emotional 
+      distress and suicide. Limited studies on long-term effects showed higher mental 
+      disorders after floods and typhoons, while cyclone-exposed individuals had more 
+      short-term distress. Notably, the review identified over 50 risk factors 
+      influencing mental health outcomes, categorized into six classes: demographic, 
+      economic, health, disaster exposure, psychological, and community factors. 
+      However, the quantitative evidence linking extreme weather events to mental 
+      health was limited due to a lack of longitudinal data, lack of control groups, 
+      and the absence of objective exposure measurements. The review found some 
+      compelling evidence linking extreme weather events to adverse mental health in 
+      the South and Southeast Asia region. Future research should focus on longitudinal 
+      study design to identify the specific stressors and climatic factors influencing 
+      the relationship between climate extremes and mental health in this region.
+CI  - Copyright © 2024 Elsevier Inc. All rights reserved.
+FAU - Patwary, Muhammad Mainuddin
+AU  - Patwary MM
+AD  - Environmental Science Discipline, Khulna University, Khulna, 9208, Bangladesh.
+FAU - Bardhan, Mondira
+AU  - Bardhan M
+AD  - Environmental Science Discipline, Khulna University, Khulna, 9208, Bangladesh; 
+      Department of Parks, Recreation and Tourism Management, Clemson University, USA.
+FAU - Haque, Md Atiqul
+AU  - Haque MA
+AD  - Department of Public Health and Informatics, Bangabandhu Shiekh Mujib Medical 
+      University, Dhaka, Bangladesh; Center for Societal Risk Research (CSR), Karlstad 
+      University, Sweden. Electronic address: atiqulm26@bsmmu.edu.bd.
+FAU - Moniruzzaman, Syed
+AU  - Moniruzzaman S
+AD  - Department of Political, Historical and Cultural Studies, Karlstad University, 
+      Karlstad, Sweden; Center for Societal Risk Research (CSR), Karlstad University, 
+      Sweden. Electronic address: syed.moniruzzaman@kau.se.
+FAU - Gustavsson, Johanna
+AU  - Gustavsson J
+AD  - Department of Political, Historical and Cultural Studies, Karlstad University, 
+      Karlstad, Sweden; Center for Societal Risk Research (CSR), Karlstad University, 
+      Sweden.
+FAU - Khan, Md Maruf Haque
+AU  - Khan MMH
+AD  - Department of Public Health and Informatics, Bangabandhu Shiekh Mujib Medical 
+      University, Dhaka, Bangladesh.
+FAU - Koivisto, Jenni
+AU  - Koivisto J
+AD  - Department of Political, Historical and Cultural Studies, Karlstad University, 
+      Karlstad, Sweden; Center for Societal Risk Research (CSR), Karlstad University, 
+      Sweden; Centre of Natural Hazards and Disaster Science (CNDS), c/o Department of 
+      Earth Sciences, Uppsala University, UPPSALA, Sweden.
+FAU - Salwa, Marium
+AU  - Salwa M
+AD  - Department of Public Health and Informatics, Bangabandhu Shiekh Mujib Medical 
+      University, Dhaka, Bangladesh.
+FAU - Mashreky, Saidur Rahman
+AU  - Mashreky SR
+AD  - Centre for Injury Prevention and Research, (CIPRB), Bangladesh; Department of 
+      Public Health, North South University, Dhaka, Bangladesh.
+FAU - Rahman, A K M Fazlur
+AU  - Rahman AKMF
+AD  - Center for Societal Risk Research (CSR), Karlstad University, Sweden; Centre for 
+      Injury Prevention and Research, (CIPRB), Bangladesh.
+FAU - Tasnim, Anika
+AU  - Tasnim A
+AD  - Department of Public Health and Informatics, Bangabandhu Shiekh Mujib Medical 
+      University, Dhaka, Bangladesh.
+FAU - Islam, Md Redwanul
+AU  - Islam MR
+AD  - Department of Public Health and Informatics, Bangabandhu Shiekh Mujib Medical 
+      University, Dhaka, Bangladesh.
+FAU - Alam, Md Ashraful
+AU  - Alam MA
+AD  - Department of Computational Diagnostic Radiology and Preventive, Medicine, The 
+      University of Tokyo Hospital, Tokyo, Japan.
+FAU - Hasan, Mahadi
+AU  - Hasan M
+AD  - Environmental Science Discipline, Khulna University, Khulna, 9208, Bangladesh.
+FAU - Harun, Md Abdullah Yousuf Al
+AU  - Harun MAYA
+AD  - Environmental Science Discipline, Khulna University, Khulna, 9208, Bangladesh.
+FAU - Nyberg, Lars
+AU  - Nyberg L
+AD  - Department of Political, Historical and Cultural Studies, Karlstad University, 
+      Karlstad, Sweden; Center for Societal Risk Research (CSR), Karlstad University, 
+      Sweden; Centre of Natural Hazards and Disaster Science (CNDS), c/o Department of 
+      Earth Sciences, Uppsala University, UPPSALA, Sweden.
+FAU - Islam, Md Atikul
+AU  - Islam MA
+AD  - Environmental Science Discipline, Khulna University, Khulna, 9208, Bangladesh; 
+      Center for Societal Risk Research (CSR), Karlstad University, Sweden. Electronic 
+      address: atik@es.ku.ac.bd.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20240212
+PL  - Netherlands
+TA  - Environ Res
+JT  - Environmental research
+JID - 0147621
+SB  - IM
+MH  - Humans
+MH  - *Mental Health/statistics & numerical data
+MH  - Asia, Southeastern/epidemiology
+MH  - *Extreme Weather
+MH  - Mental Disorders/epidemiology
+MH  - Observational Studies as Topic
+OTO - NOTNLM
+OT  - Climate change
+OT  - Extreme weather events
+OT  - Mental health
+OT  - Natural disaster
+OT  - PTSD
+OT  - South and southeast asia
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/02/15 00:42
+MHDA- 2024/05/20 00:42
+CRDT- 2024/02/14 19:15
+PHST- 2023/12/25 00:00 [received]
+PHST- 2024/02/02 00:00 [revised]
+PHST- 2024/02/05 00:00 [accepted]
+PHST- 2024/05/20 00:42 [medline]
+PHST- 2024/02/15 00:42 [pubmed]
+PHST- 2024/02/14 19:15 [entrez]
+AID - S0013-9351(24)00340-2 [pii]
+AID - 10.1016/j.envres.2024.118436 [doi]
+PST - ppublish
+SO  - Environ Res. 2024 Jun 1;250:118436. doi: 10.1016/j.envres.2024.118436. Epub 2024 
+      Feb 12.
+
+PMID- 37396038
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230704
+IS  - 1664-8021 (Print)
+IS  - 1664-8021 (Electronic)
+IS  - 1664-8021 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Insights into morphological and physio-biochemical adaptive responses in mungbean 
+      (Vigna radiata L.) under heat stress.
+PG  - 1206451
+LID - 10.3389/fgene.2023.1206451 [doi]
+LID - 1206451
+AB  - Mungbean (Vigna radiata L. Wilczek) is an important food legume crop which 
+      contributes significantly to nutritional and food security of South and Southeast 
+      Asia. The crop thrives in hot and humid weather conditions, with an optimal 
+      temperature range of 28°-35°C, and is mainly cultivated under rainfed 
+      environments. However, the rising global temperature has posed a serious threat 
+      to mungbean cultivation. Optimal temperature is a vital factor in cellular 
+      processes, and every crop species has evolved with its specific temperature 
+      tolerance ability. Moreover, variation within a crop species is inevitable, given 
+      the diverse environmental conditions under which it has evolved. For instance, 
+      various mungbean germplasm can grow and produce seeds in extreme ambient 
+      temperatures as low as 20°C or as high as 45°C. This range of variation in 
+      mungbean germplasm for heat tolerance plays a crucial role in developing heat 
+      tolerant and high yielding mungbean cultivars. However, heat tolerance is a 
+      complex mechanism which is extensively discussed in this manuscript; and at the 
+      same time individual genotypes have evolved with various ways of heat stress 
+      tolerance. Therefore, to enhance understanding towards such variability in 
+      mungbean germplasm, we studied morphological, anatomical, physiological, and 
+      biochemical traits which are responsive to heat stress in plants with more 
+      relevance to mungbean. Understanding heat stress tolerance attributing traits 
+      will help in identification of corresponding regulatory networks and associated 
+      genes, which will further help in devising suitable strategies to enhance heat 
+      tolerance in mungbean. The major pathways responsible for heat stress tolerance 
+      in plants are also discussed.
+CI  - Copyright © 2023 Bhardwaj, Lone, Pandey, Mondal, Dhandapani, Meena, Khan and 
+      Gayacharan.
+FAU - Bhardwaj, Ragini
+AU  - Bhardwaj R
+AD  - ICAR-National Bureau of Plant Genetic Resources, New Delhi, India.
+AD  - Department of Bioscience and Biotechnology, Banasthali Vidyapith University, Tonk 
+      Rajasthan, India.
+FAU - Lone, Jafar K
+AU  - Lone JK
+AD  - ICAR-National Bureau of Plant Genetic Resources, New Delhi, India.
+FAU - Pandey, Renu
+AU  - Pandey R
+AD  - Division of Plant Physiology, ICAR-Indian Agricultural Research Institute, New 
+      Delhi, India.
+FAU - Mondal, Nupur
+AU  - Mondal N
+AD  - Shivaji College, University of Delhi, New Delhi, India.
+FAU - Dhandapani, R
+AU  - Dhandapani R
+AD  - Division of Plant Physiology, ICAR-Indian Agricultural Research Institute, New 
+      Delhi, India.
+FAU - Meena, Surendra Kumar
+AU  - Meena SK
+AD  - Division of Crop Improvement, ICAR-Indian Grassland and Research Institute, 
+      Jhansi, India.
+FAU - Khan, Suphiya
+AU  - Khan S
+AD  - Department of Bioscience and Biotechnology, Banasthali Vidyapith University, Tonk 
+      Rajasthan, India.
+FAU - Gayacharan
+AU  - Gayacharan
+AD  - ICAR-National Bureau of Plant Genetic Resources, New Delhi, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230615
+PL  - Switzerland
+TA  - Front Genet
+JT  - Frontiers in genetics
+JID - 101560621
+PMC - PMC10308031
+OTO - NOTNLM
+OT  - adaptative traits
+OT  - greengram
+OT  - heat stress signaling pathways
+OT  - mungbean germplasm
+OT  - oxidative stress
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/07/03 13:06
+MHDA- 2023/07/03 13:07
+PMCR- 2023/06/15
+CRDT- 2023/07/03 11:15
+PHST- 2023/04/15 00:00 [received]
+PHST- 2023/06/05 00:00 [accepted]
+PHST- 2023/07/03 13:07 [medline]
+PHST- 2023/07/03 13:06 [pubmed]
+PHST- 2023/07/03 11:15 [entrez]
+PHST- 2023/06/15 00:00 [pmc-release]
+AID - 1206451 [pii]
+AID - 10.3389/fgene.2023.1206451 [doi]
+PST - epublish
+SO  - Front Genet. 2023 Jun 15;14:1206451. doi: 10.3389/fgene.2023.1206451. eCollection 
+      2023.
